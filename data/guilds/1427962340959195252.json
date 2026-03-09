@@ -1,0 +1,36 @@
+{
+  "guildId": "1427962340959195252",
+  "modlogChannelId": "1470408392026620109",
+  "whitelistRoleIds": [],
+  "cases": [],
+  "tickets": [],
+  "giveaways": [],
+  "reminders": [],
+  "stickyMessages": [],
+  "starboard": {
+    "channelId": null
+  },
+  "suggestions": {
+    "channelId": null,
+    "requireApproval": true
+  },
+  "snipe": {
+    "1449258802107908271": {
+      "content": "[Add me](https://discord.com/oauth2/authorize?client_id=1477597380701585408&permissions=8&integration_type=0&scope=bot)",
+      "authorId": "1193799474808619038",
+      "createdAt": 1772988153560
+    }
+  },
+  "autoroleRoleId": null,
+  "welcomeChannelId": null,
+  "welcomeMessage": null,
+  "goodbyeChannelId": null,
+  "goodbyeMessage": null,
+  "ticketConfig": {
+    "categoryId": null,
+    "maxTicketsPerUser": 3,
+    "autoCloseMinutes": 60
+  },
+  "giveawayConfig": {},
+  "afk": {}
+}
